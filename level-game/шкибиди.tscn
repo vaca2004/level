@@ -1,3 +1,10 @@
 [gd_scene format=3 uid="uid://c3qnj6a5lqms5"]
 
-[node name="Шкибиди" type="Node2D"]
+[node name="шкибиди" type="Node2D"]
+
+[node name="Гойда" type="Button" parent="."]
+offset_left = 386.0
+offset_top = 312.0
+offset_right = 630.0
+offset_bottom = 512.0
+text = "ыыыыыыыыыыыы"
