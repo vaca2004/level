@@ -11,8 +11,15 @@ config_version=5
 [application]
 
 config/name="Новый игровой проект"
+run/main_scene="uid://bb5yope401m32"
 config/features=PackedStringArray("4.4", "Mobile")
 config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=720
+window/size/viewport_height=1280
+window/handheld/orientation=1
 
 [rendering]
 
